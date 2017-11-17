@@ -1,0 +1,7 @@
+/home/navin/Desktop/As4/build/CMakeFiles/rebuild_cache.dir
+/home/navin/Desktop/As4/build/CMakeFiles/install/strip.dir
+/home/navin/Desktop/As4/build/CMakeFiles/OgreApp.dir
+/home/navin/Desktop/As4/build/CMakeFiles/install.dir
+/home/navin/Desktop/As4/build/CMakeFiles/install/local.dir
+/home/navin/Desktop/As4/build/CMakeFiles/list_install_components.dir
+/home/navin/Desktop/As4/build/CMakeFiles/edit_cache.dir
